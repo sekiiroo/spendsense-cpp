@@ -42,7 +42,6 @@ A console-based Personal Expense Tracker developed in **C++** that helps users m
 spendsense-cpp/
 │
 ├── SpendSense.cpp
-├── SpendSense.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
